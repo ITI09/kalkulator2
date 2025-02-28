@@ -28,3 +28,7 @@
     ]
   }
 }
+git add package.json package-lock.json
+git commit -m "Dodanie brakującego react-scripts"
+git push origin main
+
